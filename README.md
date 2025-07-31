@@ -13,12 +13,12 @@
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https://github.com/caiorosa31&s=21&c=f59746&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
-      
+
 <br>
 <br>
-      
+
 <div align="center">
-  <img src="https://imgur.com/hmD0KIs.png" width="200">
+  <img src="https://github.com/user-attachments/assets/7ad75117-16c4-4eab-a642-c5267e6d47f8" width="900">
 </div>
 <br>
 <div align="center">
