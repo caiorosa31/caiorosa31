@@ -1,3 +1,49 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=f59746"/>
+
+<br>
+
+<div align="center">
+  
+  <b>`Programador`</b>
+  <samp>
+      <br>
+      Bem-Vindo! Sou <b>Caio Rodrigues</b>
+  </samp>
+</div>
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https://github.com/caiorosa31&s=21&c=f59746&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://imgur.com/hmD0KIs.png" width="200">
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Caio-Rodrigues-orange" />
+</div>
+
+<br>
+<br>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f59746&width=900&size=22&center=true&lines=Eu+sou+um+estudante+de+Engenharia+de+Software;Sempre+em+busca+de+novos+desafios;Seja+Bem-Vindo!" alt="Typing SVG"/>
+</div>
+
+<br>
+<br>
+
+<details>  
+  <summary>
+      <samp>
+        <b>Ver mais</b>
+      </samp>
+  </summary>
+  
+  <br>
+
 # 👩🏻‍💻 Caio Rodrigues da Silva Rosa
 
 ## 🚀 Engenheiro de Software
@@ -69,3 +115,11 @@ Em construção
 ---
 
 *Cada linha de código, um passo mais perto de algo extraordinário.*
+
+</details>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f59746&height=100&section=footer"/>
+
