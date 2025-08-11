@@ -71,7 +71,6 @@ Progress 4GL Openedge - **Totvs**
 ![HTML5](https://skillicons.dev/icons?i=html&perline=4)
 ![CSS3](https://skillicons.dev/icons?i=css&perline=4)
 ![JavaScript](https://skillicons.dev/icons?i=js&perline=4)
-![BootStrap](https://skillicons.dev/icons?i=bootstrap&perline=4)
 
 #### Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs&perline=4)
