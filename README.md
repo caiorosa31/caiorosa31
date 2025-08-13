@@ -92,9 +92,15 @@ Progress 4GL Openedge - **Totvs**
 
 ### 📊 Estatísticas do GitHub
 
-<div>
+<div align="center">
+  <img height="140em" src="https://camo.githubusercontent.com/465b49c3dd2b6bfcc6a8c7de547b79a1e5abcd4d5bc203604821392e3eea130a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33486274796956366f746e4c66345748534e2f67697068792e676966"/>
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=caiorosa31&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiorosa31&layout=compact&langs_count=16&theme=dark"/>
+  <img height="140em" src="https://camo.githubusercontent.com/465b49c3dd2b6bfcc6a8c7de547b79a1e5abcd4d5bc203604821392e3eea130a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33486274796956366f746e4c66345748534e2f67697068792e676966"/>
+</div>
+
+ <div align="center">
+  <a href="https://github.com/caiorosa31/caiorosa31"><img alt="CaioRosa31 Grafico de atividade" src="https://github-readme-activity-graph.vercel.app/graph/?username=caiorosa31&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Grafico%20de%20atividade" /></a>
 </div>
 
 ---
