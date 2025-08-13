@@ -93,10 +93,10 @@ Progress 4GL Openedge - **Totvs**
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="140em" src="https://camo.githubusercontent.com/465b49c3dd2b6bfcc6a8c7de547b79a1e5abcd4d5bc203604821392e3eea130a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33486274796956366f746e4c66345748534e2f67697068792e676966"/>
+  <img height="80em" src="https://camo.githubusercontent.com/465b49c3dd2b6bfcc6a8c7de547b79a1e5abcd4d5bc203604821392e3eea130a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33486274796956366f746e4c66345748534e2f67697068792e676966"/>
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=caiorosa31&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiorosa31&layout=compact&langs_count=16&theme=dark"/>
-  <img height="140em" src="https://camo.githubusercontent.com/465b49c3dd2b6bfcc6a8c7de547b79a1e5abcd4d5bc203604821392e3eea130a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33486274796956366f746e4c66345748534e2f67697068792e676966"/>
+  <img height="80em" src="https://camo.githubusercontent.com/465b49c3dd2b6bfcc6a8c7de547b79a1e5abcd4d5bc203604821392e3eea130a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33486274796956366f746e4c66345748534e2f67697068792e676966"/>
 </div>
 
  <div align="center">
