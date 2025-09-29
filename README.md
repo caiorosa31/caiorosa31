@@ -10,7 +10,7 @@
       Bem-Vindo! Sou <b>Caio Rodrigues</b>
   </samp>
 </div>
-<div align="center">
+<div display="none" align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https://github.com/caiorosa31&s=21&c=f59746&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
 
